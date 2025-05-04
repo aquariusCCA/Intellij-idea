@@ -1,4 +1,6 @@
 # IDEA 中进行 war 的配置
+> **參考文章：**
+> - [IDEA中如何将一个JavaWeb项目打成war包](https://blog.csdn.net/dante1987/article/details/122305789 "IDEA中如何将一个JavaWeb项目打成war包")
 
 > 一个项目中，没有用到 `maven`，所以不能在 `maven` 窗口进行项目打包，这时候用 idea 操作有点懵逼，所以网上找了一下别人的操作
 
